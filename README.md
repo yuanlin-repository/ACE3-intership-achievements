@@ -6,6 +6,7 @@ Official website: https://ace3ai.com/
 ## Technology Stack
 - Frontend: Next.js, React, Ant Design
 - State Management: Ice Framework
+- Database: PostgreSQL
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
 
