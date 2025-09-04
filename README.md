@@ -9,8 +9,8 @@ Official website: https://ace3ai.com/
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
 
-## ACE3 Platform Overview
-ACE3 platform is a comprehensive platform for managing AI models, datasets, environments, templates, and tasks. This platform provides a zero-code experience for creating and managing AI jobs.
+## ACE3 Platform
+I Built the ACE3 platform using techniques above. ACE3 platform is a comprehensive platform for managing AI models, datasets, environments, templates, and tasks. This platform provides a zero-code experience for creating and managing AI jobs.
 
 [Watch on youtube](https://www.youtube.com/watch?v=p9-PorpbBFY)
 
