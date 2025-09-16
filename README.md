@@ -1,5 +1,5 @@
 # ACE3-Intership-achievements
-This repository is used to show my achievements during my internship at ACE3 AI LTD.
+This repository is used to show my achievements during my work at University of Leeds(ACE3 AI LTD).
 
 Can find me here(Official website): https://ace3ai.com/
 
