@@ -1,7 +1,7 @@
 # ACE3-Intership-achievements
 This repository is used to show my achievements during my internship at ACE3 AI LTD.
 
-Official website: https://ace3ai.com/
+Can find me here(Official website): https://ace3ai.com/
 
 ## Technology Stack
 - Frontend: Next.js, React, Ant Design
