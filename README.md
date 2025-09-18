@@ -6,7 +6,7 @@ Find me here (Official website): https://ace3ai.com/about.html
 ## Technology Stack
 - Frontend: Next.js, React, Ant Design
 - State Management: Ice Framework
-- Backend: Java, SpringBoot
+- Backend: Java, Python, SpringBoot
 - Database: PostgreSQL
 - Styling: Tailwind CSS
 - Build Tools: Webpack, Turbopack
