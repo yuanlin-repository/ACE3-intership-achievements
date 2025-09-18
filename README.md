@@ -1,7 +1,7 @@
 # ACE3 AI Platfrom
 This repository is used to show my achievements during my work at University of Leeds(ACE3 AI LTD).
 
-Find me here (Official website): https://ace3ai.com/about.html
+Find me here (official website): https://ace3ai.com/about.html
 
 ## Technology Stack
 - Frontend: Next.js, React, Ant Design
